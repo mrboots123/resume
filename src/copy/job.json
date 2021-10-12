@@ -1,0 +1,146 @@
+[
+  {
+    "logo": "https://www.aexp-static.com/cdaas/one/statics/axp-static-assets/1.8.0/package/dist/img/logos/dls-logo-bluebox-solid.svg",
+    "company": "American Express",
+    "tenure": "November 2019 - Current",
+    "role": "Full Stack Engineer",
+    "technologies": [
+      {
+        "logo": "SiReact",
+        "technology": "React"
+      },
+      {
+        "logo": "SiRedux",
+        "technology": "Redux"
+      },
+      {
+        "logo": "SiNodedotjs",
+        "technology": "Node.js"
+      },
+      {
+        "logo": "SiJavascript",
+        "technology": "Javascript"
+      },
+      {
+        "logo": "SiJenkins",
+        "technology": "Jenkins"
+      },
+      {
+        "logo": "SiJest",
+        "technology": "Jest"
+      },
+      {
+        "logo": "SiCss3",
+        "technology": "Css"
+      },
+      {
+        "logo": "SiJava",
+        "technology": "Java"
+      }
+    ],
+    "description": "Full Stack Engineer working under the Market Foundation team. Tasked with uplifting multiple markets from legacy code to ReactJs stack, along with turning wireframes into component based code. Developed Apis to support the new uplifting initiative. Create test cases using Jest and Enzyme then deploying to Jenkins pipelines. Used JIRA, Rally, and Confluence as task management software."
+  },
+  {
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM22viEn9Imuw1K1AjmDkncw11dYAjmYxoYUeTOXTUORj4aKOJyzVrIE4ibS9x6xxRhxc&usqp=CAU",
+    "company": "Digital AirStrike",
+    "tenure": "October 2018 - November 2019",
+    "role": "Front End Engineer",
+    "technologies": [
+      {
+        "logo": "SiReact",
+        "technology": "React"
+      },
+      {
+        "logo": "SiReduxsaga",
+        "technology": "Redux Saga"
+      },
+      {
+        "logo": "SiNodedotjs",
+        "technology": "Node.js"
+      },
+      {
+        "logo": "SiJavascript",
+        "technology": "Javascript"
+      },
+      {
+        "logo": "SiMicrosoftazure",
+        "technology": "Azure"
+      },
+      {
+        "logo": "SiMongodb",
+        "technology": "MongoDb"
+      },
+      {
+        "logo": "SiCss3",
+        "technology": "Css"
+      },
+      {
+        "logo": "SiCsharp",
+        "technology": "C#"
+      },
+      {
+        "logo": "SiAngular",
+        "technology": "AngularJs"
+      },
+      {
+        "logo": "SiTypescript",
+        "technology": "TypeScript"
+      }
+    ],
+    "description": "Front End engineer at Digital Airstrike working on a new Single page application using Express Server and ReactJs. Maintained legacy AngularJs application that included NextJs server with MongoDb backend. Added new features and maitained a C# backend, responsible for powering the front end services along with external Apis."
+  },
+  {
+    "logo": "https://media-exp1.licdn.com/dms/image/C4D0BAQGCGhGlhcA9kw/company-logo_200_200/0/1625727125864?e=1642032000&v=beta&t=400C8QOTN-p4jHed1Gg-Do2E1_k6GMtkcsAfv0oFRAU",
+    "company": "Atos/Syntel",
+    "tenure": "May 2016 - October 2018",
+    "role": "Software Engineer",
+    "technologies": [
+      {
+        "logo": "SiReact",
+        "technology": "React"
+      },
+      {
+        "logo": "SiRedux",
+        "technology": "Redux"
+      },
+      {
+        "logo": "SiNodedotjs",
+        "technology": "Node.js"
+      },
+      {
+        "logo": "SiJavascript",
+        "technology": "Javascript"
+      },
+      {
+        "logo": "SiJenkins",
+        "technology": "Jenkins"
+      },
+      {
+        "logo": "SiJest",
+        "technology": "Jest"
+      },
+      {
+        "logo": "SiCss3",
+        "technology": "Css"
+      },
+      {
+        "logo": "SiJava",
+        "technology": "Java"
+      },
+      {
+        "logo": "SiAngular",
+        "technology": "AngularJs"
+      },
+      {
+        "logo": "SiSpring",
+        "technology": "Java Spring"
+      },
+      {
+        "logo": "SiRedhat",
+        "technology": "RedHat"
+      }
+    ],
+    "description": "Software Engineer at American Express under the Merchant Interactive team. Maintaining AngularJS and Java legacy applications, as well as uplifting some application to ReactJs. Duties included deployment of applications to creating new Single App pages from wireframes. Worked closely with developers and scrum masters to align properly on the separation of tasks and plan ahead for the upcoming sprints.  "
+
+  }
+]

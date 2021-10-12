@@ -1,0 +1,21 @@
+
+.body{
+  font-size: 0.8rem;
+}
+
+.body-2 {
+  font-size: 1.2em;
+}
+
+.card {
+  width: 100%;
+  height: 300px;
+}
+
+.vertical-spread{
+  line-height: 1.6;
+}
+
+body {
+  font-family: "Roboto" !important;
+}
